@@ -4,7 +4,7 @@
   ♡ I’m available to collaborate on tech and coding projects around the world. <br>
   ♡ How to reach me: <br>
   
-  <a href="mailto:giovannahelenas@gmail.com"><img width="30" alt="mail" src="https://github.com/giovannahelena/giovannahelena/assets/103332527/1e32d4eb-17b6-43e3-8e54-f3a8a5cc6ad0"></a>
+  <a href="mailto:giovannahelenas@gmail.com"><img width="30" alt="mail" src="./imgs/mail.png"></a>
   <a href="https://www.instagram.com/itgihelena"><img width="30" alt="instagram" src="https://github.com/giovannahelena/giovannahelena/assets/103332527/21f415fb-1aac-4e32-8e5b-05e05dacd859"></a>
   <a href="https://www.linkedin.com/in/giovannahelenas/"><img width="30" alt="linkedin" src="https://github.com/giovannahelena/giovannahelena/assets/103332527/c1a368f1-e5e6-48d6-bfc3-1ee387fa0f48"></a>
   
