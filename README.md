@@ -1,15 +1,14 @@
 ### Hi, I am Giovanna Helena 🧜‍♀️
-  Computer Engineering Student at <a href="https://univesp.br/" target="_blank"> UNIVESP </a> and former Software Engineering student at <a href="https://www.42network.org/" target="_blank"> 42 </a> <a href="https://www.42sp.org.br/" target="_blank"> São Paulo </a>. <br>
-  ♡ I have mainly developed projects using C and Python;
-  ♡ Also learning .Net, Java, JavaScript, CSS, HTML;
-  ♡ Linux, CLI and SysAdmin nerd;
-  ♡ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=27ECBDEC35B8A27F48D149B80B9290E99BB5C66EE840CAAF59B62186917C9AFC", target="_blank"> OCI Cloud Foundations Certified </a>, studying for AWS tests;
+  Computer Engineering Student at <a href="https://univesp.br/" target="_blank"> UNIVESP </a> and former Software Engineering student at <a href="https://www.42network.org/" target="_blank"> 42 </a> <a href="https://www.42sp.org.br/" target="_blank"> São Paulo </a>. <br><br>
+  ♡ I have mainly developed projects using C and Python;<br>
+  ♡ Also learning .Net, Java, JavaScript, CSS, HTML;<br>
+  ♡ Linux, CLI and SysAdmin nerd;<br>
+  ♡ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=27ECBDEC35B8A27F48D149B80B9290E99BB5C66EE840CAAF59B62186917C9AFC" target="_blank"> OCI Cloud Foundations Certified </a>, studying for AWS tests;<br><br>
   
   <a href="mailto:giovannahelenas@gmail.com" target="_blank"><img width="30" alt="mail" src="./imgs/mail.png"></a>
   <a href="https://www.instagram.com/itgihelena" target="_blank"><img width="30" alt="instagram" src="./imgs/ig.png"></a>
-  
+  <br><br>
  ### C Projects - 42 Curriculum:
- #### Phase 1:
  
  <a href="https://github.com/giovannahelena/Libft_42" target="_blank"><img width="110" alt="Libft" src="./imgs/libft.png"></a>
  <a href="https://github.com/giovannahelena/Get_Next_Line_42" target="_blank"><img width="110" alt="Get_Next_Line" src="./imgs/get_next_line.png"></a>
