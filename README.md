@@ -3,11 +3,10 @@
   ♡ I have mainly developed projects using C and Python;<br>
   ♡ Also learning .Net, Java, JavaScript, CSS, HTML;<br>
   ♡ Linux, CLI and SysAdmin nerd;<br>
-  ♡ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=27ECBDEC35B8A27F48D149B80B9290E99BB5C66EE840CAAF59B62186917C9AFC" target="_blank"> OCI Cloud Foundations Certified </a>, studying for AWS tests;<br><br>
+  ♡ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=27ECBDEC35B8A27F48D149B80B9290E99BB5C66EE840CAAF59B62186917C9AFC" target="_blank"> OCI Cloud Foundations Certified </a>, studying for AWS tests;
   
-  <a href="mailto:giovannahelenas@gmail.com" target="_blank"><img width="30" alt="mail" src="./imgs/mail.png"></a>
-  <a href="https://www.instagram.com/itgihelena" target="_blank"><img width="30" alt="instagram" src="./imgs/ig.png"></a>
   <br><br>
+  
  ### C Projects - 42 Curriculum:
  
  <a href="https://github.com/giovannahelena/Libft_42" target="_blank"><img width="110" alt="Libft" src="./imgs/libft.png"></a>
@@ -18,3 +17,8 @@
  <a href="https://github.com/giovannahelena/Minitalk_42" target="_blank"><img width="110" alt="Minitalk" src="./imgs/minitalk.png"></a>
  <a href="https://github.com/giovannahelena/Push_Swap" target="_blank"><img width="110" alt="Minitalk" src="./imgs/push_swap.png"></a>
  <a href="" target="_blank"><img width="110" alt="Minishell" src="./imgs/minishell.png"></a>
+
+<br><br>
+
+<a href="mailto:giovannahelenas@gmail.com" target="_blank"><img width="30" alt="mail" src="./imgs/mail.png"></a>
+<a href="https://www.linkedin.com/in/giovannahelenas/" target="_blank"><img width="30" alt="linkedin" src="./imgs/in.png"></a>
